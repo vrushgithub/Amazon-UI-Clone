@@ -1,1 +1,1 @@
-# Amazon-UI-Clone
+# Netflix-UI-Clone
